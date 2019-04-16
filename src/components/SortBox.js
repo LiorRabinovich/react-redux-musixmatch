@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class sortBox extends Component {
+class SortBox extends Component {
     render() {
         return (
             <form className="sort-box" onChange={this.props.handlerSort}>
@@ -21,4 +21,4 @@ class sortBox extends Component {
 }
 
 
-export default sortBox;
+export default SortBox;
