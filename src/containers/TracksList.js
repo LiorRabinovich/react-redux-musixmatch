@@ -26,7 +26,6 @@ class TracksList extends Component {
     }
 
     render() {
-        console.log(this.props.tracks);
         const tracksRender = this.getTracksRender();
         return (
             <div className="cards">
