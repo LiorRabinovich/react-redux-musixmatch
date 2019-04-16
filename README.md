@@ -1,6 +1,9 @@
 # React Redux Musixmatch
 * Musixmatch site with react + react-router + redux
 
+## Screenshots
+![screenshots](https://raw.githubusercontent.com/LiorRabinovich/react-redux-musixmatch/master/screenshots/screenshots.gif)
+
 ## Scripts
 
 ### `npm install`
