@@ -10,7 +10,7 @@ class sortBox extends Component {
                         <input type="radio"
                             id={`sort-${value}`}
                             name="sort"
-                            checked={this.props.value === value}
+                            defaultChecked={this.props.value === value}
                             value={value} />
                         <label htmlFor={`sort-${value}`}>{value}</label>
                     </div>
